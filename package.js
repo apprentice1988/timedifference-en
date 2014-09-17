@@ -1,7 +1,7 @@
 Package.describe({
   summary: "output precise time differences in Chinese, eg: 1 minute ago",
   version: "1.0.0",
-  git: " \* Fill me in! *\ "
+  git: "https://github.com/apprentice1988/timedifference-en.git"
 });
 
 Package.onUse(function(api) {
