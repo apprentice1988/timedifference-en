@@ -1,7 +1,5 @@
 meteor atmosphere package
 
-将时间差转换成表达性语句， 如‘1 天之前’， ‘1 个月之后’
-
 ##Install
 
 ```shell
